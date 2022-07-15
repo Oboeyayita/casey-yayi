@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Yayi & Casey</h1>
-      <img src="pic-1-logo.png" alt="Yayi &Casey>
+      <img src="pic/1/logo.png" alt="Yayi &Casey>
       <h4>06-05-2023. <hr/> Hilliard, Ohio 43026</h4>
          <p><strong>Love</strong> bears all things. <strong>Love</strong>believes all things. <strong>Love</strong>hopes all things. <strong>Love</strong>endures all things.</p>
         <h2>Our Story</h2>
